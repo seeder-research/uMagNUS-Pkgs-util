@@ -1,2 +1,2 @@
-# uMagNUS-Pkgs-utils
+# uMagNUS-Pkgs-util
 Golang package (util) for uMagNUS
